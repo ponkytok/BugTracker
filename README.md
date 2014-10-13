@@ -1,7 +1,7 @@
 Atlantiss Core 4
 ================================
 
-Jak używać? | How to use?
+How to use?
 -------------------------
  - Używaj wyszukiwarki, by sprawdzić czy podobny błąd nie został już zgłoszony. Jeśli tak, to sprawdź czy jest poprawiony i czy nie oczekuje na wgranie.
  - Upewnij się czy zgłaszany problem jest bugiem.
@@ -17,11 +17,11 @@ Jak używać? | How to use?
   * `[Web]` Nie działa armory
 
 
-Informacje dodatkowe | Additional Information
+Additional Information
 -------------------------
 <table>
   <tr>
-    <th colspan="2">Obsługiwany patch | Supported patch: 4.3.4</th>
+    <th colspan="2">Supported patch: 4.3.4</th>
   </tr>
   <tr>
     <td>Bugtracker:</td><td>https://github.com/Atlantiss/AtlantissCore4/issues</td>
