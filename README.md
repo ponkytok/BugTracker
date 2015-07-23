@@ -28,7 +28,7 @@ Additional Information
     <td>Bugtracker:</td><td>https://github.com/Atlantiss/BugTracker/issues</td>
   </tr>
   <tr>
-    <td>Forum</td><td>http://forum.atlantiss.eu/</td>
+    <td>Forum</td><td>http://community.atlantiss.eu/</td>
   </tr>
   <tr>
     <td>Website</td><td>http://atlantiss.eu/</td>
