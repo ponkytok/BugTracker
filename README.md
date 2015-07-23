@@ -25,7 +25,7 @@ Additional Information
     <th colspan="2">Supported patch: 4.3.4</th>
   </tr>
   <tr>
-    <td>Bugtracker:</td><td>https://github.com/Atlantiss/AtlantissCore4/issues</td>
+    <td>Bugtracker:</td><td>https://github.com/Atlantiss/BugTracker/issues</td>
   </tr>
   <tr>
     <td>Forum</td><td>http://forum.atlantiss.eu/</td>
