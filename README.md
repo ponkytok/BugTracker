@@ -43,6 +43,6 @@ Additional Information
     <td>How To Play</td><td>http://atlantiss.eu/pages/1</td>
   </tr>
   <tr>
-    <td>Changelog</td><td>http://forum.atlantiss.eu/viewforum.php?f=6</td>
+    <td>Changelog</td><td>http://atlantiss.eu/changelog</td>
   </tr>
 </table>
