@@ -9,13 +9,13 @@ On the Bugtracker all titles of reports must be written in English so that every
  - Make sure, that what you report is actually a bug.
  - Enclose links to things related to the bug using http://wowhead.com or http://cata.openwow.com
  - Write your tickets according to the format:<br>
-  * `[EN]``[Quest]``[Zone]` A Vision of the Past<br>
-  * `[EN]``[NPC]` Thoralius the Wise<br>
-  * `[EN]``[Spell]``[Class]` Frostfire Bolt<br>
-  * `[PL]``[Talent]``[Class]` Brain Freeze<br>
-  * `[EN]``[Glyph]``[Class]` Glyph of Frostfire Bolt<br>
-  * `[EN]``[Npc]``[Drop]` Thoralius the Wise<br>
-  * `[EN]``[Web]` Armory doesnt work
+  * `[EN][Quest][Zone]` A Vision of the Past<br>
+  * `[EN][NPC]` Thoralius the Wise<br>
+  * `[EN][Spell][Class]` Frostfire Bolt<br>
+  * `[PL][Talent][Class]` Brain Freeze<br>
+  * `[EN][Glyph][Class]` Glyph of Frostfire Bolt<br>
+  * `[EN][Npc][Drop]` Thoralius the Wise<br>
+  * `[EN][Web]` Armory doesnt work
 
 
 Additional Information
