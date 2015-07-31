@@ -21,29 +21,14 @@ On the Bugtracker all titles of reports must be written in English so that every
 
 Additional Information
 -------------------------
-<table>
-  <tr>
-    <th colspan="2">Supported patch: 4.3.4</th>
-  </tr>
-  <tr>
-    <td>Bugtracker:</td><td>https://github.com/Atlantiss/BugTracker/issues</td>
-  </tr>
-  <tr>
-    <td>Forum</td><td>http://community.atlantiss.eu/</td>
-  </tr>
-  <tr>
-    <td>Website</td><td>http://atlantiss.eu/</td>
-  </tr>
-  <tr>
-    <td>Realmlist</td><td>play.atlantiss.eu</td>
-  </tr>
-  <tr>
-    <td>TeamSpeak</td><td>voice.atlantiss.eu</td>
-  </tr>
-  <tr>
-    <td>How To Play</td><td>http://atlantiss.eu/pages/1</td>
-  </tr>
-  <tr>
-    <td>Changelog</td><td>http://atlantiss.eu/changelog</td>
-  </tr>
-</table>
+
+| Supported patch:  | 4.3.4                                          |
+|-------------------|:-----------------------------------------------|
+| Bugtracker:       | https://github.com/Atlantiss/BugTracker/issues |
+| Forum:            | http://community.atlantiss.eu/                 |
+| Website:          | http://atlantiss.eu/                           |
+| Realmlist:        | play.atlantiss.eu                              |
+| TeamSpeak:        | voice.atlantiss.eu                             |
+| How To Play:      | http://atlantiss.eu/pages/1                    |
+| Changelog:        | http://atlantiss.eu/changelog                  |
+
