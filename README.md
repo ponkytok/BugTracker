@@ -16,6 +16,7 @@ On the Bugtracker all titles of reports must be written in English so that every
   * `[EN][Glyph][Class]` Glyph of Frostfire Bolt<br>
   * `[EN][Npc][Drop]` Thoralius the Wise<br>
   * `[EN][Web]` Armory doesnt work
+ - List of currently supported tags [/wiki/List-of-supported-tags-in-issue](https://github.com/Atlantiss/BugTracker/wiki/List-of-supported-tags-in-issue)
 
 
 Additional Information
